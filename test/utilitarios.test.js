@@ -1,4 +1,4 @@
-const Utilitarios = require('../src/Utilitarios');
+const Utilitarios = require('../src/utilitarios');
 let util;
 
 beforeEach(() => {
